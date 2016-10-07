@@ -14,5 +14,4 @@ function lengthercounter(kick) {
 // map(["ground", "control", "to", "major", "tom"], (elm) => { return counter.length })
 // map(["ground", "control", "to", "major", "tom"], lengthercounter);
 
-var noob = map(["me7e", "ta7a", "weytk", "me7 wiksten", "nucwem"], lengthercounter);
-console.log(noob);
+map(["me7e", "ta7a", "weytk", "me7 wiksten", "nucwem"], lengthercounter);
